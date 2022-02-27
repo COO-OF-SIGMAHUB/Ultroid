@@ -11,17 +11,17 @@
     ],
     "repository": "https://github.com/COO-OF-SIGMAHUB/Ultroid",
     "website": "https://ultroid.tech",
-    "success_url": "https://t.me/TheUltroid",
+    "success_url": "https://t.me/THIS_IS_TELE_USER",
     "stack": "container",
     "env": {
         "API_ID": {
             "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
-            "value": "", 
+            "value": "4399809", 
             "required": false
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
-            "value": "",
+            "value": "add0a092a7579667cf471ee2801fcde5",
             "required": false
         },
         "SESSION": {
